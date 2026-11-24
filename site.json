@@ -1,0 +1,10 @@
+{
+  "description": "SPARK helps learners build real-world skills through personalized, AI-guided projects, progress tracking, and automated feedback, with tools for platform administrators.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
